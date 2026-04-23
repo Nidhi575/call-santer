@@ -1,5 +1,3 @@
-# call santer
-<!DOCTYPE html>
 <html>
 <head>
     <title>Call Center Management</title>
